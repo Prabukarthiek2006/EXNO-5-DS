@@ -135,4 +135,4 @@ plt.show()
 <img width="475" height="400" alt="image" src="https://github.com/user-attachments/assets/caf5e79c-9d79-43cd-930b-d4d3991a42b9" />
 
 # Result:
- Include your result here
+ Thus, all the data visualization techniques of matplotlib has been implemented.
